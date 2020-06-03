@@ -1,5 +1,5 @@
 if has('gui_running')
-   set lines=40 columns=120
+   set lines=40 columns=180
    set macligatures 
 
    set cursorline
@@ -9,7 +9,7 @@ if has('gui_running')
 endif
 
 "set guifont=Fura\ Code\ Light\ Nerd\ Font\ Complete:h16 
-set guifont=Input\ Mono:h14 
+set guifont=Victor\ Mono:h18
 syntax on
 set nocompatible
 set encoding=utf-8
